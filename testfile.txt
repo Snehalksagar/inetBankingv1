@@ -1,0 +1,2 @@
+This is sample file added from Github 
+When you pull the code, this should be shown in your local
