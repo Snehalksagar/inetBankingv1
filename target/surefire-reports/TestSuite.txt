@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 12.663 sec <<< FAILURE! - in TestSuite
+login(com.inetBanking.testCases.LoginTestCase002)  Time elapsed: 1.999 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.inetBanking.testCases.LoginTestCase002.login(LoginTestCase002.java:40)
+
