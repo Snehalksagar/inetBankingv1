@@ -1,2 +1,4 @@
 This is sample file added from Github 
 When you pull the code, this should be shown in your local
+line 2 is added from local
+this needs to be checked in Github
